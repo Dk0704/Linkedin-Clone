@@ -1,0 +1,19 @@
+.inOption{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: gray;
+    padding: 10px;
+    cursor: pointer;
+    /* justify-content: space-around; */
+}
+
+.inOption:hover{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.inOption > h4{
+    margin-left: 5px;
+}
